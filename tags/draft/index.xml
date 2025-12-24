@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Draft on Pugo Test Site</title><link>/tags/draft/</link><description>Recent content in Draft on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/draft/index.xml" rel="self" type="application/rss+xml"/><item><title>Second Test Post</title><link>/blog/second-post/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/second-post/</guid><description>&lt;h1 id="second-test-post">Second Test Post&lt;/h1>
+&lt;p>This post is marked as a &lt;strong>draft&lt;/strong> to test draft handling in Pugo.&lt;/p>
+&lt;h2 id="draft-features">Draft Features&lt;/h2>
+&lt;ul>
+&lt;li>Should show &amp;ldquo;Draft&amp;rdquo; indicator in admin&lt;/li>
+&lt;li>Should not appear in production builds (unless &lt;code>--buildDrafts&lt;/code> is used)&lt;/li>
+&lt;li>Should be editable and publishable&lt;/li>
+&lt;/ul>
+&lt;h2 id="more-content">More Content&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p>
+&lt;blockquote>
+&lt;p>This is a blockquote for testing styling.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="a-table">A Table&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Status&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Editing&lt;/td>
+ &lt;td>✅ Works&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Saving&lt;/td>
+ &lt;td>✅ Works&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Preview&lt;/td>
+ &lt;td>✅ Works&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

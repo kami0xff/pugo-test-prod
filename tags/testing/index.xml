@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Testing on Pugo Test Site</title><link>/tags/testing/</link><description>Recent content in Testing on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/testing/index.xml" rel="self" type="application/rss+xml"/><item><title>First Test Post</title><link>/blog/first-post/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/first-post/</guid><description>&lt;h1 id="first-test-post">First Test Post&lt;/h1>
+&lt;p>This is a sample blog post for testing the Pugo Admin content editor.&lt;/p>
+&lt;h2 id="testing-features">Testing Features&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Markdown rendering&lt;/strong> - Does it look right?&lt;/li>
+&lt;li>&lt;strong>Frontmatter editing&lt;/strong> - Can we update the title, date, tags?&lt;/li>
+&lt;li>&lt;strong>Image uploads&lt;/strong> - Can we add a featured image?&lt;/li>
+&lt;/ol>
+&lt;h2 id="code-block-test">Code Block Test&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">hello&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello from Pugo!&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>If you can edit this post through the admin panel, everything is working correctly!&lt;/p></description></item></channel></rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Pugo Test Site on Pugo Test Site</title><link>/</link><description>Recent content in Welcome to Pugo Test Site on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Markdown Editor 2024</title><link>/reviews/best-markdown-editor/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/reviews/best-markdown-editor/</guid><description>&lt;h1 id="best-markdown-editor-2024">Best Markdown Editor 2024&lt;/h1>
+&lt;p>In this review, we&amp;rsquo;ll look at the best markdown editors available today.&lt;/p>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Markdown has become the standard for technical documentation&amp;hellip;&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Syntax Highlighting&lt;/strong>: Beautiful code highlighting&lt;/li>
+&lt;li>&lt;strong>Live Preview&lt;/strong>: See your changes in real-time&lt;/li>
+&lt;li>&lt;strong>Export Options&lt;/strong>: Export to HTML, PDF, and more&lt;/li>
+&lt;/ul>
+&lt;h2 id="rating-breakdown">Rating Breakdown&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Category&lt;/th>
+ &lt;th>Score&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Features&lt;/td>
+ &lt;td>4.5/5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Performance&lt;/td>
+ &lt;td>5/5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Value&lt;/td>
+ &lt;td>4/5&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="final-verdict">Final Verdict&lt;/h2>
+&lt;p>This is an excellent editor for anyone working with Markdown.&lt;/p></description></item><item><title>First Test Post</title><link>/blog/first-post/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/first-post/</guid><description>&lt;h1 id="first-test-post">First Test Post&lt;/h1>
+&lt;p>This is a sample blog post for testing the Pugo Admin content editor.&lt;/p>
+&lt;h2 id="testing-features">Testing Features&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Markdown rendering&lt;/strong> - Does it look right?&lt;/li>
+&lt;li>&lt;strong>Frontmatter editing&lt;/strong> - Can we update the title, date, tags?&lt;/li>
+&lt;li>&lt;strong>Image uploads&lt;/strong> - Can we add a featured image?&lt;/li>
+&lt;/ol>
+&lt;h2 id="code-block-test">Code Block Test&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">hello&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello from Pugo!&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>If you can edit this post through the admin panel, everything is working correctly!&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>/tutorials/getting-started/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/tutorials/getting-started/</guid><description>&lt;h1 id="getting-started-with-hugo">Getting Started with Hugo&lt;/h1>
+&lt;p>This tutorial will walk you through setting up your first Hugo site.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;ul>
+&lt;li>Basic command line knowledge&lt;/li>
+&lt;li>Text editor&lt;/li>
+&lt;li>Hugo installed&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-1-install-hugo">Step 1: Install Hugo&lt;/h2>
+&lt;p>First, install Hugo on your system&amp;hellip;&lt;/p>
+&lt;h2 id="step-2-create-a-new-site">Step 2: Create a New Site&lt;/h2>
+&lt;p>Run the following command:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site mysite
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>You now have a basic Hugo site set up!&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h1 id="about-this-test-site">About This Test Site&lt;/h1>
+&lt;p>This is a development environment for testing Pugo Admin features.&lt;/p>
+&lt;h2 id="purpose">Purpose&lt;/h2>
+&lt;ul>
+&lt;li>Test content creation and editing&lt;/li>
+&lt;li>Test media uploads and management&lt;/li>
+&lt;li>Test data file editors&lt;/li>
+&lt;li>Test Hugo build process&lt;/li>
+&lt;li>Develop new features safely&lt;/li>
+&lt;/ul>
+&lt;h2 id="not-for-production">Not For Production&lt;/h2>
+&lt;p>This site is gitignored and should never be committed to the repository.&lt;/p></description></item></channel></rss>

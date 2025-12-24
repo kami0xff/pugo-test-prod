@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on Pugo Test Site</title><link>/tags/tutorial/</link><description>Recent content in Tutorial on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Hugo</title><link>/tutorials/getting-started/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/tutorials/getting-started/</guid><description>&lt;h1 id="getting-started-with-hugo">Getting Started with Hugo&lt;/h1>
+&lt;p>This tutorial will walk you through setting up your first Hugo site.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;ul>
+&lt;li>Basic command line knowledge&lt;/li>
+&lt;li>Text editor&lt;/li>
+&lt;li>Hugo installed&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-1-install-hugo">Step 1: Install Hugo&lt;/h2>
+&lt;p>First, install Hugo on your system&amp;hellip;&lt;/p>
+&lt;h2 id="step-2-create-a-new-site">Step 2: Create a New Site&lt;/h2>
+&lt;p>Run the following command:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site mysite
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>You now have a basic Hugo site set up!&lt;/p></description></item></channel></rss>
