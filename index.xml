@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Pugo Test Site on Pugo Test Site</title><link>/</link><description>Recent content in Welcome to Pugo Test Site on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Markdown Editor 2024</title><link>/reviews/best-markdown-editor/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/reviews/best-markdown-editor/</guid><description>&lt;h1 id="best-markdown-editor-2024">Best Markdown Editor 2024&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Pugo Test Site on Pugo Test Site</title><link>/</link><description>Recent content in Welcome to Pugo Test Site on Pugo Test Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Markdown Editor 2024</title><link>/reviews/best-markdown-editor/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>/reviews/best-markdown-editor/</guid><description>&lt;h1 id="best-markdown-editor-2024">Best Markdown Editor 2024&lt;/h1>
 &lt;p>In this review, we&amp;rsquo;ll look at the best markdown editors available today.&lt;/p>
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>Markdown has become the standard for technical documentation&amp;hellip;&lt;/p>
@@ -45,7 +45,10 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello from Pugo!&amp;#34;&lt;/span>);
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
-&lt;p>If you can edit this post through the admin panel, everything is working correctly!&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>/tutorials/getting-started/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/tutorials/getting-started/</guid><description>&lt;h1 id="getting-started-with-hugo">Getting Started with Hugo&lt;/h1>
+&lt;p>If you can edit this post through the admin panel, everything is working correctly!&lt;/p>
+&lt;h2 id="we-are-live">We are live&lt;/h2>
+&lt;p>we are now live on the internet for the first time
+updated now ?&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>/tutorials/getting-started/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>/tutorials/getting-started/</guid><description>&lt;h1 id="getting-started-with-hugo">Getting Started with Hugo&lt;/h1>
 &lt;p>This tutorial will walk you through setting up your first Hugo site.&lt;/p>
 &lt;h2 id="prerequisites">Prerequisites&lt;/h2>
 &lt;ul>
